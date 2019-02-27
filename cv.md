@@ -23,6 +23,11 @@ Software Engineer
 
 ---
 
+## Technical Skills:
+
+
+---
+
 ## Work Experience:
 
 | Company Name                      | Period         | Experience                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -40,6 +45,7 @@ Software Engineer
 ---
 
 ## Education
+
 | University                                                    | Period      | Description                    |
 | ------------------------------------------------------------- | ----------- | ------------------------------ |
 | Belarusian State University (Department of computer modeling) | 2010 - 2015 | BACHELOR (scientific research) |
