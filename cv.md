@@ -50,7 +50,10 @@ Software Engineer
 | ------------------------------------------------------------- | ----------- | ------------------------------ |
 | Belarusian State University (Department of computer modeling) | 2010 - 2015 | BACHELOR (scientific research) |
 
+---
+
 ## Certificates
+
 | Year | Description                                                                                           |
 | ---- | ----------------------------------------------------------------------------------------------------- |
 | 2018 | Technologies of regulatory management (Institute of Business Technologies)(01/2018 – 06/2018)         |
