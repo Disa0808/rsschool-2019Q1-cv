@@ -25,8 +25,20 @@ Software Engineer
 
 ## Technical Skills:
 
+|  | | |
+| ------------- | -------- | ------------------------- |
+| SQL           | JSON     | Linux                     |
+| Oracle APEX   | HTML/CSS | PL/SQL                    |
+| XPATH         | XSLT     | Oracle Rest Data Services |
+| Apache Tomcat | XML      | JavaScript                |
+| xquery        | GIT      | NodeJS                    |
 
 ---
+
+## Languages
+
+* **Polish:** A2;
+* **English:** A2/B1;
 
 ## Work Experience:
 
